@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/ssd2/liuzixiang/workspace/snowboy/lzx_sample/data/0425/wav'
+let g:netrw_dirhist_2='/home/ssd2/liuzixiang/workspace/bumblebee-device/snowboy-dspc-newest/services/aec'
+let g:netrw_dirhist_3='/home/ssd2/liuzixiang/workspace/bumblebee-device/snowboy-dspc-newest/services/bt_app'
+let g:netrw_dirhist_4='/home/ssd2/liuzixiang/workspace/baidu/personal-code/wfstdecoder/src'
+let g:netrw_dirhist_5='/home/ssd2/liuzixiang/workspace/bumblebee-device/snowboy-dspc-newest/platform/drivers/codec/best2000'
+let g:netrw_dirhist_6='/home/ssd2/liuzixiang/workspace/bumblebee-device/snowboy-dspc-newest/services/ble_app/app_smartvoice'
+let g:netrw_dirhist_7='/home/ssd2/liuzixiang/workspace/bumblebee-device/snowboy-dspc-newest/services/aec'
