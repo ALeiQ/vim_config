@@ -256,6 +256,7 @@ let Tlist_Compact_Format = 1
 map <F3> :NERDTreeToggle<CR>
 imap <F3> <ESC>:NERDTreeToggle<CR>
 " 自动退出, 包含nerdtree在内还剩两个文件时
+let NERDTreeWinPos="right"
 autocmd bufenter * if (winnr("$") == 2 && exists("b:NERDTreeType") &&b:NERDTreeType == "primary")  | qa | endif
 "
 "-----------------------------------------------------------------
